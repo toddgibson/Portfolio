@@ -1,7 +1,3 @@
-<script lang="ts">
-    export let changePageHandler = () => { console.log('hmmm')};
-</script>
-
 <div class="text-center" style="margin-bottom: 20px;">
     <h1>Hello, world!</h1>
     <p class="text-center">

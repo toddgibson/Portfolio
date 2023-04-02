@@ -49,7 +49,7 @@
 
 <div class="content px-4" style="margin-bottom: 50px;">
     {#if page === 'portfolio'}
-        <Portfolio changePageHandler={() => changePage} />
+        <Portfolio />
     {:else if page === 'contact'}
         <Contact />
     {/if}
