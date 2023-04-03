@@ -7,6 +7,7 @@
 </svelte:head>
 
 <script lang="ts">
+    export const prerender = true;
     import Contact from "../components/contact.svelte";
     import Portfolio from "../components/portfolio.svelte";
 
