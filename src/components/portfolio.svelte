@@ -3,7 +3,7 @@
     <p class="text-center">
         I'm Todd, a software engineer and game developer.<br>
         I have experience with Unity, Godot, Blender and other tools.<br>
-        If you have an awesome project and are interested in hiring me, please <a href="/contact">reach out!</a>
+        If you have an awesome project and are interested in hiring me, please reach out!
     </p>
     <hr />
 </div>
