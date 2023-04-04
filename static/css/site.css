@@ -27,6 +27,7 @@ h1, h2, h3, h4, h5, h6, .nav-link {
     box-shadow: 0 0 10px 15px #3b3b3b;
     border: 0;
     background-color: #c4c4c4;
+    margin: 20px;
 }
 
 h1:focus {

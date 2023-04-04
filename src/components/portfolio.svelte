@@ -11,7 +11,7 @@
 <div class="text-center">
     <h3>My Games</h3>
 
-    <div class="d-flex justify-content-evenly flex-wrap" style="margin-bottom: 20px;">
+    <div class="d-flex justify-content-center flex-wrap" style="margin-bottom: 20px;">
         <div class="card" style="width: 18rem;">
             <img src="/images/the-7th-seal.png" class="card-img-top" alt="The 7th Seal">
             <div class="card-body">
@@ -41,7 +41,7 @@
 
     <h3>Other Projects</h3>
 
-    <div class="d-flex justify-content-evenly flex-wrap" style="margin-bottom: 20px;">
+    <div class="d-flex justify-content-center flex-wrap" style="margin-bottom: 20px;">
         <div class="card" style="width: 18rem;">
             <img src="/images/statemachine.png" class="card-img-top" alt="Simple State Machine">
             <div class="card-body">
