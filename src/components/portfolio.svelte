@@ -13,13 +13,13 @@
 
     <div class="d-flex justify-content-center flex-wrap" style="margin-bottom: 20px;">
         <div class="card" style="width: 18rem;">
-            <img src="/images/the-7th-seal.png" class="card-img-top" alt="The 7th Seal">
+            <img src="/images/fealty-header.jpg" class="card-img-top" alt="The 7th Seal">
             <div class="card-body">
-                <h5 class="card-title">The 7th Seal</h5>
+                <h5 class="card-title">Fealty</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Made in Unity</h6>
                 <p class="card-text">A medieval fantasy, tactical, turn-based strategy game.</p>
-                <p class="card-text">Under active development.</p>
-                <a href="https://store.steampowered.com/app/1770120/The_7th_Seal/" class="btn btn-dark"
+                <p class="card-text">Released in 2024.</p>
+                <a href="https://store.steampowered.com/app/1770120/Fealty/" class="btn btn-dark"
                     target="_steam"><img src="/images/steam-logo.png" style="width: 16px;" alt="steam logo" /> STEAM</a>
             </div>
         </div>
@@ -63,5 +63,16 @@
                 <a href="https://svelte.dev/" target="_svelte" class="btn btn-warning"><img src="/images/svelte-logo.png" style="width: 20px;" alt="email me" /> SVELTE</a>
             </div>
         </div>
+    </div>
+</div>
+
+<div class="text-center" style="min-height: 80px;">
+    <div class="contact-item"><strong><img src="/images/mail-logo.png" alt="email me" style="height: 20px;">
+    </strong> <a href="mailto: justtoddgibson+portfolio@gmail.com">email me</a>
+    </div>
+    <div class="contact-item">
+        <a href="https://www.linkedin.com/in/justtoddgibson/" target="_contact"><img src="/images/linkedin-logo.png" alt="linked in logo" style="height: 20px;"></a>&nbsp;&nbsp;
+        <a href="https://twitter.com/justtoddgibson" target="_contact"><img src="/images/twitter-logo.png" style="height: 20px;" alt="twitter logo"></a>
+        <a href="https://github.com/toddgibson" target="_contact"><img src="/images/github-logo.png" style="height: 20px;" alt="github logo"></a>
     </div>
 </div>
