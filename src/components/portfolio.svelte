@@ -66,6 +66,10 @@
     </div>
 </div>
 
+<div class="text-center">
+    <img src="/images/aws-certified-developer-associate.png" alt="AWS Certified!" style="height: 110px;" />
+</div>
+
 <div class="text-center" style="min-height: 80px;">
     <div class="contact-item"><strong><img src="/images/mail-logo.png" alt="email me" style="height: 20px;">
     </strong> <a href="mailto: justtoddgibson+portfolio@gmail.com">email me</a>
@@ -76,3 +80,4 @@
         <a href="https://github.com/toddgibson" target="_contact"><img src="/images/github-logo.png" style="height: 20px;" alt="github logo"></a>
     </div>
 </div>
+

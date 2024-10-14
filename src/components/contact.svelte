@@ -3,6 +3,14 @@
     <img src="/images/me.jpeg" alt="Todd Gibson" class="img-fluid rounded-circle" style="max-width: 200px;" />
 </div>
 
+<div class="text-center" style="margin-top: 20px;">
+    <a href="/downloads/Robert_Gibson_2024.pdf" style="padding: 10px; margin: 5px; border: 1px dashed black; border-radius: 5px;">Download my Resume</a>
+</div>
+
+<div class="text-center" style="margin-top: 20px;">
+    <img src="/images/aws-certified-developer-associate.png" alt="AWS Certified!" style="height: 110px;" />
+</div>
+
 <div class="text-center" style="min-height: 35vh;">
     <div class="contact-item"><strong><img src="/images/mail-logo.png" alt="email me" style="height: 20px;">
         </strong> <a href="mailto: justtoddgibson+portfolio@gmail.com">email me</a>
