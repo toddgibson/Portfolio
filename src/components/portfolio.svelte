@@ -78,6 +78,7 @@
         <a href="https://www.linkedin.com/in/justtoddgibson/" target="_contact"><img src="/images/linkedin-logo.png" alt="linked in logo" style="height: 20px;"></a>&nbsp;&nbsp;
         <a href="https://twitter.com/justtoddgibson" target="_contact"><img src="/images/twitter-logo.png" style="height: 20px;" alt="twitter logo"></a>
         <a href="https://github.com/toddgibson" target="_contact"><img src="/images/github-logo.png" style="height: 20px;" alt="github logo"></a>
+        <a href="https://www.youtube.com/@toddmakesgames" target="_contact"><img src="/images/youtube-logo.png" style="height: 20px;" alt="youtube logo"></a>
     </div>
 </div>
 
