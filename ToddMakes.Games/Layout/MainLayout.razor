@@ -1,0 +1,43 @@
+﻿@inherits LayoutComponentBase
+
+<div class="page">
+    <main>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="/">
+                    <img src="/images/me-gameboy-lg.png" alt="Hey, that's me!" width="30">
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mx-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="/">Portfolio</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/contact">Contact Me</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/mailinglist">Mailing List</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <article class="content px-4">
+            @Body
+        </article>
+
+        <footer class="bg-dark text-center text-lg">
+            <div class="container p-4">
+                <p>Copyright &copy; @DateTime.Now.Year Todd Gibson</p>
+            </div>
+        </footer>
+    </main>
+</div>
